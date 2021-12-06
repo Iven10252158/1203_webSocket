@@ -3,10 +3,8 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
-  <a href="./index.js">連結</a>
   <router-view/>
 </template>
-
 
 <style lang="scss">
 #app {
